@@ -1,2 +1,2 @@
 # refactoring-second
-リファクタリング第2版 
+リファクタリング第2版
